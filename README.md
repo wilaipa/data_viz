@@ -3,4 +3,5 @@
 วิไลภา ชินพะวอ 2020613020616-6
 
 ตัวอย่างการแทรกรูป
-![kkulogo](icon-KKU.jpg)
+
+![KKUlogo](KKUlogo.png)
